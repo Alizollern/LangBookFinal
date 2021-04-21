@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(193, 191, 191, 0.22);
+}
+.nav{
+    display: flex;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.nav div{
+    margin: 0px 40px 0px 15px;
+    font-size: 18px;
+}
+.upper-center{
+    display: flex;
+}
+.popular-book{
+    width: 10%;
+    height: 20%;
+    margin: 80px 6px 10px 10px;
+}
+#most{
+    position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    display: flex;
+    margin: 20px 10px 10px 70px;
+    
+}
+.right-content{
+    width: 80%;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0.78);
+}
+.all-content{
+    background-color: rgba(255, 255, 255, 0.76);
+    width: 65%;
+    margin-left: 80px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+li{
+    margin-right: 5px;
+}
+.footer{
+    position: relative;
+    right: 22px;
+    top: 20px;
+    width: 102%;
+    height: 300px;
+    background-color: #110004;
+
+}
